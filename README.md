@@ -2,9 +2,9 @@
 
 [![github-badge]][github-url] [![twitter-badge]][twitter-url] [![linkedin-badge]][linkedin-url]
 
-I'm a Product Manager at [Snowplow Analytics](https://www.snowplowanalytics.com/).
+I lead Product-led Growth at [Snowplow Analytics](https://www.snowplowanalytics.com/).
 
-:seedling: I'm currently thinking about new ways to get Snowplow in to the hands of as many people as possible, as easily as possible.
+:seedling: I'm currently thinking about new ways to get Snowplow in to the hands of as many people as possible, as easily as possible. Specifically, I am working on [Try Snowplow](https://try.snowplowanalytics.com/), the fastest and simplest way to get started with Snowplow. If you have any feedback or questions on Try Snowplow, check out [our dedicated discourse category](https://discourse.snowplowanalytics.com/c/try-snowplow).
 
 :speech_balloon: I am passionate about how data can be structured and modeled to solve different business use cases. I occasionally write on for the [Snowplow blog](https://snowplowanalytics.com/blog/authors/cara-baestlein/). Also, you can listen to my four part data modeling series [here](https://snowplowanalytics.com/webinars/data-modeling-mini-series/).
 
