@@ -2,11 +2,13 @@
 
 [![github-badge]][github-url] [![twitter-badge]][twitter-url] [![linkedin-badge]][linkedin-url]
 
-I lead Product-led Growth at [Snowplow Analytics](https://www.snowplowanalytics.com/).
+I'm passionate about Open Source technology; I believe it fosters innovation and brings tremendous value to businesses large and small.
 
-:seedling: I'm currently thinking about new ways to get Snowplow in to the hands of as many people as possible, as easily as possible. Specifically, I am working on [Try Snowplow](https://try.snowplowanalytics.com/), the fastest and simplest way to get started with Snowplow. If you have any feedback or questions on Try Snowplow, check out [our dedicated discourse category](https://discourse.snowplowanalytics.com/c/try-snowplow).
+Currently, I lead Product-led Growth at [Aiven](https://aiven.io/), working on making leading Open Source technologies accessible to all. Previously, I was a Product Manager at [Snowplow](https://snowplowanalytics.com/), the leading Open Source Behavioural Data Platform, helping companies take control of their data strategy. 
 
-:speech_balloon: I am passionate about how data can be structured and modeled to solve different business use cases. I occasionally write on for the [Snowplow blog](https://snowplowanalytics.com/blog/authors/cara-baestlein/). Also, you can listen to my four part data modeling series [here](https://snowplowanalytics.com/webinars/data-modeling-mini-series/).
+🌱 I am thinking about different business models and Go-to-Market strategies around open source software. 
+
+💬 Talk to me about all things Open Source technology, Product-led Growth and Developer-focused Marketing! 
 
 :mailbox: You can reach me on [Twitter](https://twitter.com/CaraBaestlein) and [LinkedIn](https://www.linkedin.com/in/cara-baestlein/).
 
