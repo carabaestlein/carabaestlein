@@ -4,7 +4,7 @@
 
 I'm passionate about Open Source technology; I believe it fosters innovation and brings tremendous value to businesses large and small.
 
-Currently, I lead Product-led Growth at [Aiven](https://aiven.io/), working on making leading Open Source technologies accessible to all. Previously, I was a Product Manager at [Snowplow](https://snowplowanalytics.com/), the leading Open Source Behavioural Data Platform, helping companies take control of their data strategy. 
+Currently, I lead Product-led Growth at [Aiven](https://aiven.io/), working on making leading Open Source data technologies accessible to all. Previously, I was a Product Manager at [Snowplow](https://snowplowanalytics.com/), the first Open Source Behavioural Data Platform, helping companies take control of their data strategy. 
 
 🌱 I am thinking about different business models and Go-to-Market strategies around open source software. 
 
