@@ -4,11 +4,11 @@
 
 I'm passionate about Open Source technology; I believe it fosters innovation and brings tremendous value to businesses large and small.
 
-Currently, I lead Product-led Growth at [Aiven](https://aiven.io/), working on making leading Open Source data technologies accessible to all. Previously, I was a Product Manager at [Snowplow](https://snowplowanalytics.com/), the first Open Source Behavioural Data Platform, helping companies take control of their data strategy. 
+Currently, I am the Director of Product Management for Platform Experience at [Aiven](https://aiven.io/), working on making leading Open Source data technologies accessible to all. Previously, I was a Product Manager at [Snowplow](https://snowplowanalytics.com/), the first Open Source Behavioural Data Platform, helping companies take control of their data strategy. 
 
-🌱 I am thinking about different business models and Go-to-Market strategies around open source software. 
+🌱 I am thinking about how companies can leverage data to drive tangible business value. 
 
-💬 Talk to me about all things Open Source technology, Product-led Growth and Developer-focused Marketing! 
+💬 Talk to me about all things Data, Open Source technology and Product-led Growth! 
 
 :mailbox: You can reach me on [Twitter](https://twitter.com/CaraBaestlein) and [LinkedIn](https://www.linkedin.com/in/cara-baestlein/).
 
