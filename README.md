@@ -2,11 +2,9 @@
 
 [![github-badge]][github-url] [![twitter-badge]][twitter-url] [![linkedin-badge]][linkedin-url]
 
-I'm passionate about Open Source technology; I believe it fosters innovation and brings tremendous value to businesses large and small.
+I am passionate about enabling companies to do more with data. Over the last 8 years, I have worked in various Product and GTM roles for Open Source data companies, including [Quix](https://quix.io/), [Aiven](https://aiven.io/) and [Snowplow](https://snowplowanalytics.com/).
 
-Currently, I am the Director of Product Management for Platform Experience at [Aiven](https://aiven.io/), working on making leading Open Source data technologies accessible to all. Previously, I was a Product Manager at [Snowplow](https://snowplowanalytics.com/), the first Open Source Behavioural Data Platform, helping companies take control of their data strategy. 
-
-🌱 I am thinking about how companies can leverage data to drive tangible business value. 
+🌱 I am thinking about how companies could better catalog their data to make it more discoverable, and therefore utimately more valuable to the business.
 
 💬 Talk to me about all things Data, Open Source technology and Product-led Growth! 
 
