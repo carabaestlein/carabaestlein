@@ -4,9 +4,7 @@
 
 I am passionate about enabling companies to do more with data. Over the last 8 years, I have worked in various Product and GTM roles for (mostly) Open Source data companies, including [Quix](https://quix.io/), [Aiven](https://aiven.io/) and [Snowplow](https://snowplowanalytics.com/). I currently lead Product for Data Observability at [Ataccama](https://www.ataccama.com/).
 
-🌱 I am thinking about how companies could better catalog their data to make it more discoverable, and therefore utimately more valuable to the business.
-
-💬 Talk to me about all things data, Open Source tech and Product-led Growth! 
+🌱 Currently, I am thinking about how companies build their (meta) data infrastructure to facilitate AI adoption!
 
 :mailbox: You can reach me on [Twitter](https://twitter.com/CaraBaestlein) and [LinkedIn](https://www.linkedin.com/in/cara-baestlein/).
 
